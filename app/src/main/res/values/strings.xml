@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Pra Assesment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="persegi_panjang">Persegi Panjang</string>
+    <string name="segitiga">Segitiga</string>
+    <string name="panjang">panjang</string>
+    <string name="lebar">lebar</string>
+    <string name="hitung">hitung</string>
+    <string name="luas">Luas = ....</string>
+    <string name="keliling">Keliling = ....</string>
+    <string name="share">Share</string>
+    <string name="alas">Alas</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="about">About</string>
+    <string name="nama">M. Arya D.R</string>
+    <string name="kelas">D3IF-42-04</string>
+    <string name="nim">6706184098</string>
+</resources>
